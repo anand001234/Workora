@@ -1,0 +1,5 @@
+apps/
+# OS
+.DS_Store
+.oneminutelogs
+
